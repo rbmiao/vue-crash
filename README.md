@@ -35,7 +35,7 @@
 npm install
 ```
 
-## Run the JSON-Server backend (http://localhost:5000)
+> ## Run the JSON-Server backend (http://localhost:5000)
 
 ```
 npm run backend
@@ -48,6 +48,7 @@ npm run serve
 ```
 
 ## Compiles and minifies for production
+This will create a directory /dist. All stuffs will be used for project.
 
 ```
 npm run build
