@@ -5,9 +5,9 @@
 
 ## Contents
 
- Intro & Slides
- User Generator Mini Project (CDN)
- Vue CLI Setup
+* Intro & Slides
+* User Generator Mini Project (CDN)
+* Vue CLI Setup
  Files, Dev Server & Cleanup
  Global Styles
  Header Component
